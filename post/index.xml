@@ -16,14 +16,18 @@
       <pubDate>Tue, 20 Oct 2015 14:50:23 +0900</pubDate>
       
       <guid>http://13j-programmers.github.io/post/ecoris-exhibited/</guid>
-      <description>
+      <description>&lt;p&gt;2015年度のクラス展示としてゲームを制作しました。&lt;/p&gt;
 
-&lt;h4 id=&#34;ecorisとは:6514ebdf6851bc60a920be4b8d53b63f&#34;&gt;Ecorisとは&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/13J-Programmers/3J-class-project&#34;&gt;Ecoris(GitHub)&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;2015年度のクラス展示としてゲームを制作しました。
-LEAP MOTIONというセンサで操作する3Dテトリスです。
-Unity(C#)で半年ほどかけて準備しました。
-その甲斐あって表彰式で学生会長賞をいただきました。&lt;/p&gt;
+&lt;p&gt;　EcorisはLEAP MOTIONというセンサを用いて手で操作する3Dテトリスです。
+その名のとおりエコについて考えてもらえるようゴミに見立てたブロックが登場し、それを積み上げて消していきます。x,yどちらか一方向に一行そろえるとブロックが消え、得点が入ります。&lt;/p&gt;
+
+&lt;p&gt;　生ゴミならば水を切る、缶ならつぶすなどの動作によってブロックのサイズを変えることができ、小さな穴を埋めて高得点を狙えるように工夫されています。
+身近にできることをゲームを通じて(特に子供向けに)意識してもらえればいいというコンセプトを表現しています。&lt;/p&gt;
+
+&lt;p&gt;　Unity(C#で開発)で半年ほどかけて準備しました。
+ゲームとしてのある程度の難易度および環境問題に結びつけたテーマを評価され、表彰式では学生会長賞をいただきました。&lt;/p&gt;
 </description>
     </item>
     
